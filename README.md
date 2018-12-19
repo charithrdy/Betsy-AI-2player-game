@@ -1,4 +1,4 @@
-# a2 - Betsy
+# Betsy
 
 ## Algorithm - Minimax Alpha Beta Pruning
 - For solving betsy, a two player game, minimax is a very handy approach. 
